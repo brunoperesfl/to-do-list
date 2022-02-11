@@ -1,0 +1,1 @@
+Simple to-do list in React Vite, TypeScript, Tailwind CSS.
